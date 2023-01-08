@@ -117,3 +117,37 @@
     padding-top: 70px;
     padding-bottom: 20px;
 }
+
+/* Body Part 3  */
+
+.body-part-three{
+    background-color: #fff8f3;
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: 50% 100%; 
+    text-align: center;
+    /* height: 100vh; */
+    /* background-attachment: fixed; */
+    background-position: center;
+    position: relative;
+    padding-right: 490px;
+    color: whitesmoke;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+}
+
+.contact{
+   
+    display: flex;
+    gap: 100px;
+    background-color: #0f0702;
+    padding: 130px 200px;
+    color: #fff8f3;
+}
+.contact .section-title{
+    text-align: left;
+   
+   }
+   .contact a{
+    text-decoration: none;
+}
