@@ -45,3 +45,28 @@
     padding-bottom: 20px;
     color: #ece7e3;
 }
+.body-one{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+.body-one-right{
+    /* background-color: orange; */
+    padding-left: 350px;
+
+    /* margin-left: 80px; */
+}
+.body-one-paragraph{
+    padding-top: 20px;
+}
+
+.body-one-right-title{
+    font-weight: 900;
+    /* font-size: 20px */
+}
+
+.body-one-checklist{
+    /* background-color: blue; */
+    padding-left: 20px;
+    padding-top: 20px;
+}
